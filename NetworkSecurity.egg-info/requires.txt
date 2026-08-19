@@ -8,3 +8,4 @@ dotenv
 scikit-learn
 dill
 pyaml
+mlflow

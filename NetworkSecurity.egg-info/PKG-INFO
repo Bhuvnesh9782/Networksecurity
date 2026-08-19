@@ -13,6 +13,7 @@ Requires-Dist: dotenv
 Requires-Dist: scikit-learn
 Requires-Dist: dill
 Requires-Dist: pyaml
+Requires-Dist: mlflow
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
